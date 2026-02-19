@@ -6,7 +6,7 @@
 # Purpose: This program reads a file containing student names and six scores,
 # calculates each student's average, and prints the results in descending order
 # based on the final average.
-# Resources: Class notes and personal practice with Python file handling.
+# Resources: Class notes and personal practice with Python
 
 file_name = "input.txt"
 students = []
